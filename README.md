@@ -2,7 +2,7 @@
 
 **'Desenvolvedor FullStack'**
 
-Olá eu sou o Emmanuel Lara, tenho 17 anos e sou do Rio de Janeiro, estou me formando em Técnico de Informática pela IFRJ(Campus São João de Meriti) e estou me formando no Ensino Médio pela CE Ramiz Galvão. Atualmente estou em busca de uma vaga de jovem aprendiz para poder ganhar experiência em trabalho em equipe e para poder aplicar meus conhecimentos na prática. Sou muito enteressado por tecnologia e compartilho meu conhecimento através dos meus projetos no meu GitHub"[EmmanuelLra](https://github.com/EmmanuelLra)", onde crio projetos web e no meu site,"[Portifólio](https://emmanuellra.github.io/Portifolio/)", e também aprendo muito com cursos online e aulas de antigos professores meu pelo youtube.
+Olá eu sou o Emmanuel Lara, tenho 17 anos e sou do Rio de Janeiro, estou me formando em Técnico de Informática pela IFRJ(Campus São João de Meriti) e estou me formando no Ensino Médio pela CE Ramiz Galvão. Atualmente estou em busca de uma vaga de jovem aprendiz para poder ganhar experiência em trabalho em equipe e para poder aplicar meus conhecimentos na prática. Sou muito enteressado por tecnologia e compartilho meu conhecimento através dos meus projetos no meu GitHub"[EmmanuelLra](https://github.com/EmmanuelLra)", onde crio projetos web e no meu site,"[Portifólio](https://emmanuellra.github.io/Portf-lio/)", e também aprendo muito com cursos online e aulas de antigos professores meu pelo youtube.
 
 <p align="left"
         <a href="https://x.com/EmSnowin">
